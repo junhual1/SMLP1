@@ -1,7 +1,14 @@
-# SMLP1 （Team name: EasyMoneyGPT）
+# SML Project 1 （Team name: EasyMoneyGPT）
+## Git Repo URL
+
+https://github.com/junhual1/SMLP1
+
 ## Collaborators:
+
 - junhual1@student.unimelb.edu.au
 - xinhao1@student.unimelb.edu.au
 
-## Baseline:
-- sklearn.linear_model import LogisticRegression 
+## Files:
+ - project.ipynb : code for generated text detection
+ - report.pdf : report for this project
+ - README.md : general information about this zip folder
