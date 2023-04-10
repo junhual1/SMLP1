@@ -9,6 +9,7 @@
 
 - Junhua Liu : junhual1@student.unimelb.edu.au
 - Xinhao Yan : xinhao1@student.unimelb.edu.au
+- Yue Teng: ytten@student.unimelb.edu.au
  
 ## Github Repo URL
 
