@@ -1,7 +1,11 @@
 # SML Project 1 （Team name: EasyMoneyGPT）
 ## Files:
 
+ - baseline.ipynb : code for logistic regression
+ - transformer.ipynb : transformer model
  - project.ipynb : code for generated text detection
+ - tensorflow.ipynb : Bi-directional LSTM model
+ - lgb.ipynb : LGBMC Classifier
  - report.pdf : report for this project
  - README.md : general information about this zip folder
 
